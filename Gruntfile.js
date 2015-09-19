@@ -87,9 +87,10 @@ module.exports = function(grunt) {
 		},
 
 		zip: {
-			'jungle-reveal-v016.zip': [
+			'jungle-reveal-v017.zip': [
 				'index.html',
 				'Gruntfile.js',
+				'README.md',
 				'package.json',
 				'css/**',
 				'js/**',
