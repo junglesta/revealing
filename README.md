@@ -13,4 +13,4 @@ _setting up..._
 
 - reveal.js
 - source repo
-- WHY svgs by designed by [David Terzano](http://work-it.it)
+- WHY svgs designed by [David Terzano](http://work-it.it){:target="_blank"}
