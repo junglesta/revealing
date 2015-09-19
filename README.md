@@ -1,14 +1,16 @@
 # junglestar
 
-setting up...
+_setting up..._
 
-features:
-	- grunt  
-	- reveal.js
-	- standalone webapp (android :())
-	- SVGs!
+##### features:
 
-credits:
-	- reveal.js
-	- source repo
-	- WHY svgs by designed by [David Terzano](http://work-it.it){:target="_blank"}
+- grunt  
+- reveal.js
+- standalone webapp (android :())
+- SVGs!
+
+##### credits:
+
+- reveal.js
+- source repo
+- WHY svgs by designed by [David Terzano](http://work-it.it)
