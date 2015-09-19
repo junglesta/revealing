@@ -13,4 +13,4 @@ _setting up..._
 
 - reveal.js
 - source repo
-- WHY svgs designed by [David Terzano](http://work-it.it)
+- [svg images](https://github.com/toybreaker/junglestar/tree/gh-pages/images) designed by [David Terzano](http://work-it.it)
