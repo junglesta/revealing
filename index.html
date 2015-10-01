@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="/bower_components/angular-material/angular-material.css">
+	<link href='http://fonts.googleapis.com/css?family=Graduate' rel='stylesheet' type='text/css'>
+</head>
+    <body ng-app="app" style="margin:60px">
+
+
+		<h1>junglestar</%></h1>
+
+		<h1 style="font-family: Graduate, 'Helvetica Neue', sans-serif;">KiNGBolT</h1>
+		<h2>a combination of</h2>
+		<ul>
+			<li>Karma</li>
+			<li>AngularJS</li>
+			<li>Gulp</li>
+			<li>Bower</li>
+			<li>Typescript</li><br>
+			...and more
+		</ul>
+		<br>
+		<br>
+
+
+    <div ng-controller="shell as sh" style="background:lightblue;width:400px;padding:20px">
+		message: {{sh.message}}<br>
+		<br>hello {{sh.count}} <button ng-click="sh.increase()">Increase</button>
+    </div>
+
+    <script src="/bower_components/angular/angular.js"></script>
+    <script src="/bower_components/angular-aria/angular-aria.js"></script>
+    <script src="/bower_components/angular-animate/angular-animate.js"></script>
+    <script src="/bower_components/hammerjs/hammer.js"></script>
+    <script src="/bower_components/angular-material/angular-material.js"></script>
+    <script src="release/js/app.js"></script>
+
+</body>
+</html>
