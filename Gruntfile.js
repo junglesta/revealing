@@ -130,7 +130,7 @@ module.exports = function(grunt) {
 	grunt.registerTask( 'themes', [ 'sass' ] );
 
 	// Package presentation to archive
-	grunt.registerTask( 'package', [ 'default', 'zip' ] );
+	grunt.registerTask( 'zip', [ 'default', 'zip' ] );
 
 	// Serve presentation locally
 	grunt.registerTask( 'serve', [ 'connect', 'watch' ] );
