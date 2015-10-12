@@ -44,3 +44,10 @@ Despite this repo being public, it doesn't mean that all these assets are open-s
 Please, ask for permission first by contacting us through _info@junglestar.org_
 
 Thanks, Junglestar team
+
+
+##dev time
+
+```
+npm install
+```

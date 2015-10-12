@@ -1,0 +1,48 @@
+// jstar
+
+// colors
+  $background_color: rgba(45,147,244,1); //BLUE #2D93F4 hsla(209,82%,57%,1)
+  $accent_color: rgba(255,87,34,1); //ORANGE #FF5722 hsla(14,100%,57%,1)
+
+
+//Transparent colors
+  $white_3: rgba(255,255,255,.3);
+  $white_5: rgba(255,255,255,.5);
+  $white_7: rgba(255,255,255,.7);
+
+  $black_1: rgba(0,0,0,.1);
+  $black_2: rgba(0,0,0,.2);
+  $black_3: rgba(0,0,0,.3);
+  $black_4: rgba(0,0,0,.4);
+  $black_5: rgba(0,0,0,.5);
+  $black_7: rgba(0,0,0,.7);
+
+//flat colors
+  $white: #fff;  
+  $black: #000;
+
+//typo______________
+
+  $html_font_size: 16px;
+  $base_font_size: 1rem;
+  $base_line_height: 1.3;
+  $font_family: 'Comfortaa', Verdana, sans-serif;
+  $fat: 700;
+  $bold: 400;
+  $regular: 300;
+  $light: 300;
+
+  $text-color: $white;
+
+//4.__global border radius__
+  $border_radius: 5px;
+  $border_size: 1px;
+  $border_size--big: 3px;
+
+//5.__vertical riddim__
+  $vert_margin_size: 5px;
+
+//6.__transitions  
+  $transition_duration: 400ms;
+  $transition_duration--slow: 1s;
+  $transition_function: cubic-bezier(.69,.2,.48,1.47);
