@@ -1,6 +1,6 @@
 # junglestar
 
-_setting up..._
+Concept presentation
 
 ##### features:
 
